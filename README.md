@@ -36,8 +36,8 @@ I'm Mina from Egypt, Sohag, and I do special mobile apps, I have a deep interest
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinaFaried3&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinaFaried3&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinaFaried3&show_icons=true&theme=noctis_minimus)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinaFaried3&layout=compact&theme=noctis_minimus)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
