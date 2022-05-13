@@ -1,14 +1,25 @@
 
-### Hi there 👋,I,m Mina Faried
+### Hi there 👋,I,m Mina Faried 👨‍💻
 #### Junior Flutter Developer
 ![Junior Flutter Developer](https://github.com/MinaFaried3/MinaFaried3/blob/main/mino_flutter2lite.jpg)
 
 
 I'm Mina from Egypt, Sohag, and I do special mobile apps, I have a deep interest in computer sciences, and I have fun learning programming, Junior Software engineer has experience in mobile development using flutter framework and dart programming language, and I am a photographer who has years of experience  
 
-##Skills: 
+## Skills: 
 
-* FLUTTER / DART / FIREBASE / BLOC / SQFLITE / SHARED-PREFERENCES / MVVM / C++ / OOP / DATA-STRUCTURE / PROBLEM-SOLVING / ALGORTHIMS
+* FLUTTER 📱 
+* DART 🎯 
+* FIREBASE 🔥
+* BLOC ⏹️
+* SQFLITE 📅
+* SHARED-PREFERENCES 📌
+* MVVM 🗺️ 
+* C++ ©️
+* OOP 👨‍💻 
+* DATA-STRUCTURE 📅
+* PROBLEM-SOLVING 📌
+* ALGORTHIMS 📌
 
 - 🔭 I’m currently working on Mobile App Development 
 - 🌱 I’m currently learning Flutter Framework 
