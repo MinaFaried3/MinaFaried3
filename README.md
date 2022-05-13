@@ -18,6 +18,8 @@ Skills: FLUTTER / DART / FIREBASE / BLOC / SQFLITE / SHARED-PREFERENCES / MVVM /
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinaFaried3)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
