@@ -35,7 +35,7 @@ I'm Mina from Egypt, Sohag, and I do special mobile apps, I have a deep interest
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinaFaried3&layout=compact&theme=noctis_minimus)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinaFaried3&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinaFaried3&&show_icons=true&theme=noctis_minimus)
 
 
 
