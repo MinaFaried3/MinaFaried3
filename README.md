@@ -8,7 +8,7 @@ I'm Mina from Egypt, Sohag, and I do special mobile apps, I have a deep interest
 
 ## Skills: 
 
-* FLUTTER 📱  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/flutter.svg' alt='flutter' height='40'>](https://flutter.dev/)
+* FLUTTER 📱 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/flutter.svg' alt='flutter' height='40'>](https://flutter.dev/)
 * DART 🎯 
 * FIREBASE 🔥
 * BLOC ⏹️
