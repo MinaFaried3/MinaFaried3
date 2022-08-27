@@ -7,8 +7,11 @@
 I'm Mina from Egypt, Sohag, and I do special mobile apps, I have a deep interest in computer sciences, and I have fun learning programming, Junior Software engineer has experience in mobile development using flutter framework and dart programming language, and I am a photographer who has years of experience  
 
 ## Skills: 
+* FLUTTER
+* DART
 * BLOC 
 * MVVM 
+* CLEAN ARHITECTURE
 * DATA-STRUCTURE
 * OOP
 * PROBLEM-SOLVING
