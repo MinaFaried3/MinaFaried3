@@ -34,12 +34,12 @@ I'm Mina from Egypt, Sohag, and I do special mobile apps, I have a deep interest
 <a href="https://instagram.com/mino_f.eldihabi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mino_f.eldihabi" height="30" width="40" /></a>
 </p>
 
+![Mina's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinaFaried3&&show_icons=true&theme=noctis_minimus&hide=prs,issues,contribs)
 
-<!---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinaFaried3&layout=compact&theme=noctis_minimus)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinaFaried3&layout=compact&theme=noctis_minimus)](https://github.com/MinaFaried3?tab=repositories)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinaFaried3&&show_icons=true&theme=noctis_minimus&hide=prs,issues,contribs)
--->
+
+
 
 
 
