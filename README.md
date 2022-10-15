@@ -5,9 +5,8 @@
 <a href="https://github.com/MinaFaried3?tab=repositories"><img style="   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 60%; " src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=2FA2D5&multiline=true&width=470&height=150&lines=%2F%2F+Hi+there+%F0%9F%91%8B;%7B;%22name%22++++++%3A+%22Mina+Faried+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%22+%2C;%22title%22+%3A+%22Junior+Flutter+Developer+%F0%9F%93%B1%22+%2C;%7D" alt="Typing SVG" /></a>
-### Hi there 👋,I,m Mina Faried 👨‍💻
-#### Junior Flutter Developer
+  width: 60%; " src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=2FA2D5&multiline=true&width=470&height=150&lines=%2F%2F+Hi+there+%F0%9F%91%8B;%7B;%22name%22++++++%3A+%22Mina+Faried+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%22+%2C;%22title%22+%3A+%22Junior+Flutter+Developer+%F0%9F%93%B1%22+%2C;%7D" alt="Mina Faried" /></a>
+
 I'm Mina from Egypt, Sohag, and I do special mobile apps, I have a deep interest in computer sciences, and I have fun learning programming, Junior Software engineer has experience in mobile development using flutter framework and dart programming language, and I am a photographer who has years of experience  
 
 ## Skills: 
