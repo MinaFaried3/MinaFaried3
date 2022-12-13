@@ -41,7 +41,7 @@ I'm Mina from Egypt, Sohag, and I do special mobile apps, I have a deep interest
 
 
 
-[![Mina's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinaFaried3&&show_icons=true&theme=noctis_minimus&hide=prs,issues,contribs)](https://github.com/MinaFaried3?tab=repositories) 
+[![Mina's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinaFaried3&&show_icons=true&theme=noctis_minimus&hide=contribs)](https://github.com/MinaFaried3?tab=repositories) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinaFaried3&layout=compact&theme=noctis_minimus)](https://github.com/MinaFaried3?tab=repositories)
 
